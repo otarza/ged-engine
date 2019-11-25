@@ -1,2 +1,2 @@
-# ged-engine
-GeD Engine
+# GeD Engine
+Digital currency management platform.
